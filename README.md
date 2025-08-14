@@ -2,7 +2,7 @@
 #  Phantom Vault (גבריאל)<br><br>> *"In shadows we work, in daylight we vanish."*<br><br>I am a **Gray Hat Hacker**, specialized in **OSINT**, **Red Team** operations, and **Advanced Social Engineering**.  <br>My work focuses on discovering, exploiting, and neutralizing vulnerabilities — always with surgical precision and a strategic mindset.<br><br>---<br><br>## 📜 Skill History<br><br>**2009–2013** — Introduction to hacking: game reverse engineering, batch/Python scripting, and basic system exploitation.  <br>**2014–2017** — Specialization in **Linux**, networking, anonymity, privacy, and operational security (OpSec).  <br>**2018–2020** — Intensive **OSINT** and digital intelligence gathering: data mapping, correlation analysis, and comprehensive dossier creation.  <br>**2021–2023** — Manual penetration testing: **IDOR**, **RCE**, **XSS**, **SQL Injection**, logic bypass, and chained exploitation.  <br>**2024–Present** — Development of custom tools, leadership of operations with **Chi Rho**, and execution of cyber intelligence missions.<br><br>---<br><br>## 🔥 Areas of Expertise<br><br>- **Manual Pentesting** — Advanced testing without heavy automation, identifying flaws scanners can’t detect.  <br>- **OSINT & Digital Dossiers** — Recon and target investigation, mapping vulnerabilities and hidden connections.  <br>- **Exploit & Tool Development** — Custom software and scripts for both attack and defense.  <br>- **Advanced Social Engineering** — Pretexts, false profiles, and infiltration into hostile digital environments.  <br>- **Digital Protection** — Neutralizing scammers, impersonators, and malicious actors.<br><br>---<br><br>## 🛠️ Projects & Operations<br><br>- **Wounds of the Web** — Real-world vulnerability collection and exploitation, documented with precision.  <br>- **Chi Rho** — Gray Hat group focused on threat tracking and counter-intelligence actions.<br><br>---<br><br>## 🎯 Philosophy<br><br>> **"In Hoc Signo Vinces"** — The cross as a symbol of just warfare in cyberspace.  <br>> Hacking is not about destroying — it’s about **exposing** what the world tries to hide.<br><br>I operate at the threshold between light and shadow, following one clear code:  <br>**Protection for those who need it. Justice for those who cannot defend themselves.**<br><br>---<br><br>## 📡 Secure Contact<br>- **Session**: `0590df54ab0934f9b63c21862e1e439e4e4891742abec567bfd9f1b851b29ea00b`<br><br>---<br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/elliottf0851) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/root_phv) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Woundsoftheweb) 
 
 # 💻 Tech Stack:
@@ -12,19 +12,19 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=phantomvault76&theme=codeSTACKr&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=phantomvault76&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=phantomvault76&theme=codeSTACKr&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=phantomvault76&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=phantomvault76&icon=5&color=4)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+# 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ 889KZBjH3kbHjzNi6m7FtzBYRwDhui8n31wapqCwkkhy5BQKUJkyFa9JCG8Xj5G8X5EX3ZnnkGVqjJd9sb4ncgTGKSn84UD ) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ 889KZBjH3kbHjzNi6m7FtzBYRwDhui8n31wapqCwkkhy5BQKUJkyFa9JCG8Xj5G8X5EX3ZnnkGVqjJd9sb4ncgTGKSn84UD ) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/ 889KZBjH3kbHjzNi6m7FtzBYRwDhui8n31wapqCwkkhy5BQKUJkyFa9JCG8Xj5G8X5EX3ZnnkGVqjJd9sb4ncgTGKSn84UD ) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ 889KZBjH3kbHjzNi6m7FtzBYRwDhui8n31wapqCwkkhy5BQKUJkyFa9JCG8Xj5G8X5EX3ZnnkGVqjJd9sb4ncgTGKSn84UD ) 
 
   
